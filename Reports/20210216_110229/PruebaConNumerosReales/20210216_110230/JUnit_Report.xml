@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="PruebaConNumerosReales" time="132.207" tests="12" failures="0" skips="0" errors="0">
+   <testsuite name="PruebaConNumerosReales" tests="12" failures="0" errors="0" time="132.207" skips="0" timestamp="2021-02-16 11:02:33" hostname="zamir - 192.168.0.18" id="Test Suites/PruebaConNumerosReales">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\zamir\\git\\test-factorial-katalon\\Reports\\20210216_110229\\PruebaConNumerosReales\\20210216_110230"/>
+         <property name="logFiles" value="C:\\Users\\zamir\\git\\test-factorial-katalon\\Reports\\20210216_110229\\PruebaConNumerosReales\\20210216_110230\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="zamir - 192.168.0.18"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="null.null"/>
+         <property name="browser" value="Chrome 88.0.4324.150"/>
+         <property name="hostAddress" value="192.168.0.18"/>
+         <property name="sessionId" value="3cc9b1552c45fa45f0efd14d740e81b9"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/PruebaDatosVarios" time="11.14" classname="Test Cases/PruebaDatosVarios" status="PASSED">
+         <system-out><![CDATA[2021-02-16 11:02:34 - [TEST_CASE][PASSED] - Test Cases/PruebaDatosVarios: Test Cases/PruebaDatosVarios
+
+2021-02-16 11:02:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-02-16 11:02:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-02-16 11:02:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-02-16 11:02:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-02-16 11:02:41 - [TEST_STEP][PASSED] - navigateToUrl("http://qainterview.pythonanywhere.com/"): Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:02:44 - [MESSAGE][PASSED] - Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:02:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Factoriall/input_The greatest factorial calculator_number"), number): Text '-10000' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:02:45 - [MESSAGE][PASSED] - Text '-10000' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:02:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Factoriall/button_Calculate")): Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on
+
+2021-02-16 11:02:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PruebaDatosVarios" time="10.634" classname="Test Cases/PruebaDatosVarios" status="PASSED">
+         <system-out><![CDATA[2021-02-16 11:02:45 - [TEST_CASE][PASSED] - Test Cases/PruebaDatosVarios: Test Cases/PruebaDatosVarios
+
+2021-02-16 11:02:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-02-16 11:02:45 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2021-02-16 11:02:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-02-16 11:02:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-02-16 11:02:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-02-16 11:02:53 - [TEST_STEP][PASSED] - navigateToUrl("http://qainterview.pythonanywhere.com/"): Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:02:55 - [MESSAGE][PASSED] - Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:02:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Factoriall/input_The greatest factorial calculator_number"), number): Text '-1000' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:02:55 - [MESSAGE][PASSED] - Text '-1000' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:02:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Factoriall/button_Calculate")): Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on
+
+2021-02-16 11:02:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PruebaDatosVarios" time="10.74" classname="Test Cases/PruebaDatosVarios" status="PASSED">
+         <system-out><![CDATA[2021-02-16 11:02:56 - [TEST_CASE][PASSED] - Test Cases/PruebaDatosVarios: Test Cases/PruebaDatosVarios
+
+2021-02-16 11:02:56 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-02-16 11:02:56 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2021-02-16 11:02:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-02-16 11:02:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-02-16 11:03:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-02-16 11:03:03 - [TEST_STEP][PASSED] - navigateToUrl("http://qainterview.pythonanywhere.com/"): Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:03:05 - [MESSAGE][PASSED] - Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:03:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Factoriall/input_The greatest factorial calculator_number"), number): Text '-100' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:03:06 - [MESSAGE][PASSED] - Text '-100' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:03:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Factoriall/button_Calculate")): Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on
+
+2021-02-16 11:03:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PruebaDatosVarios" time="10.368" classname="Test Cases/PruebaDatosVarios" status="PASSED">
+         <system-out><![CDATA[2021-02-16 11:03:06 - [TEST_CASE][PASSED] - Test Cases/PruebaDatosVarios: Test Cases/PruebaDatosVarios
+
+2021-02-16 11:03:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-02-16 11:03:06 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2021-02-16 11:03:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-02-16 11:03:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-02-16 11:03:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-02-16 11:03:14 - [TEST_STEP][PASSED] - navigateToUrl("http://qainterview.pythonanywhere.com/"): Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:03:16 - [MESSAGE][PASSED] - Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:03:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Factoriall/input_The greatest factorial calculator_number"), number): Text '-10' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:03:16 - [MESSAGE][PASSED] - Text '-10' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:03:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Factoriall/button_Calculate")): Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on
+
+2021-02-16 11:03:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PruebaDatosVarios" time="10.687" classname="Test Cases/PruebaDatosVarios" status="PASSED">
+         <system-out><![CDATA[2021-02-16 11:03:17 - [TEST_CASE][PASSED] - Test Cases/PruebaDatosVarios: Test Cases/PruebaDatosVarios
+
+2021-02-16 11:03:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-02-16 11:03:17 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2021-02-16 11:03:18 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-02-16 11:03:18 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-02-16 11:03:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-02-16 11:03:24 - [TEST_STEP][PASSED] - navigateToUrl("http://qainterview.pythonanywhere.com/"): Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:03:27 - [MESSAGE][PASSED] - Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:03:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Factoriall/input_The greatest factorial calculator_number"), number): Text '-1' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:03:27 - [MESSAGE][PASSED] - Text '-1' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:03:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Factoriall/button_Calculate")): Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on
+
+2021-02-16 11:03:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PruebaDatosVarios" time="10.596" classname="Test Cases/PruebaDatosVarios" status="PASSED">
+         <system-out><![CDATA[2021-02-16 11:03:28 - [TEST_CASE][PASSED] - Test Cases/PruebaDatosVarios: Test Cases/PruebaDatosVarios
+
+2021-02-16 11:03:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-02-16 11:03:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2021-02-16 11:03:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-02-16 11:03:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-02-16 11:03:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-02-16 11:03:35 - [TEST_STEP][PASSED] - navigateToUrl("http://qainterview.pythonanywhere.com/"): Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:03:37 - [MESSAGE][PASSED] - Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:03:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Factoriall/input_The greatest factorial calculator_number"), number): Text '0' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:03:38 - [MESSAGE][PASSED] - Text '0' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:03:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Factoriall/button_Calculate")): Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on
+
+2021-02-16 11:03:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PruebaDatosVarios" time="10.338" classname="Test Cases/PruebaDatosVarios" status="PASSED">
+         <system-out><![CDATA[2021-02-16 11:03:38 - [TEST_CASE][PASSED] - Test Cases/PruebaDatosVarios: Test Cases/PruebaDatosVarios
+
+2021-02-16 11:03:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-02-16 11:03:38 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2021-02-16 11:03:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-02-16 11:03:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-02-16 11:03:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-02-16 11:03:45 - [TEST_STEP][PASSED] - navigateToUrl("http://qainterview.pythonanywhere.com/"): Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:03:47 - [MESSAGE][PASSED] - Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:03:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Factoriall/input_The greatest factorial calculator_number"), number): Text '1' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:03:48 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:03:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Factoriall/button_Calculate")): Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on
+
+2021-02-16 11:03:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PruebaDatosVarios" time="10.73" classname="Test Cases/PruebaDatosVarios" status="PASSED">
+         <system-out><![CDATA[2021-02-16 11:03:49 - [TEST_CASE][PASSED] - Test Cases/PruebaDatosVarios: Test Cases/PruebaDatosVarios
+
+2021-02-16 11:03:49 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-02-16 11:03:49 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2021-02-16 11:03:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-02-16 11:03:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-02-16 11:03:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-02-16 11:03:56 - [TEST_STEP][PASSED] - navigateToUrl("http://qainterview.pythonanywhere.com/"): Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:03:58 - [MESSAGE][PASSED] - Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:03:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Factoriall/input_The greatest factorial calculator_number"), number): Text '10' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:03:59 - [MESSAGE][PASSED] - Text '10' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:03:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Factoriall/button_Calculate")): Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on
+
+2021-02-16 11:03:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PruebaDatosVarios" time="10.736" classname="Test Cases/PruebaDatosVarios" status="PASSED">
+         <system-out><![CDATA[2021-02-16 11:03:59 - [TEST_CASE][PASSED] - Test Cases/PruebaDatosVarios: Test Cases/PruebaDatosVarios
+
+2021-02-16 11:03:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-02-16 11:03:59 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2021-02-16 11:04:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-02-16 11:04:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-02-16 11:04:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-02-16 11:04:06 - [TEST_STEP][PASSED] - navigateToUrl("http://qainterview.pythonanywhere.com/"): Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:04:09 - [MESSAGE][PASSED] - Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:04:09 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Factoriall/input_The greatest factorial calculator_number"), number): Text '100' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:04:10 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:04:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Factoriall/button_Calculate")): Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on
+
+2021-02-16 11:04:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PruebaDatosVarios" time="13.381" classname="Test Cases/PruebaDatosVarios" status="PASSED">
+         <system-out><![CDATA[2021-02-16 11:04:10 - [TEST_CASE][PASSED] - Test Cases/PruebaDatosVarios: Test Cases/PruebaDatosVarios
+
+2021-02-16 11:04:10 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-02-16 11:04:10 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2021-02-16 11:04:11 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-02-16 11:04:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-02-16 11:04:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-02-16 11:04:17 - [TEST_STEP][PASSED] - navigateToUrl("http://qainterview.pythonanywhere.com/"): Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:04:22 - [MESSAGE][PASSED] - Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:04:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Factoriall/input_The greatest factorial calculator_number"), number): Text '1000' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:04:23 - [MESSAGE][PASSED] - Text '1000' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:04:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Factoriall/button_Calculate")): Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on
+
+2021-02-16 11:04:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PruebaDatosVarios" time="10.497" classname="Test Cases/PruebaDatosVarios" status="PASSED">
+         <system-out><![CDATA[2021-02-16 11:04:23 - [TEST_CASE][PASSED] - Test Cases/PruebaDatosVarios: Test Cases/PruebaDatosVarios
+
+2021-02-16 11:04:23 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-02-16 11:04:23 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2021-02-16 11:04:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-02-16 11:04:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-02-16 11:04:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-02-16 11:04:30 - [TEST_STEP][PASSED] - navigateToUrl("http://qainterview.pythonanywhere.com/"): Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:04:33 - [MESSAGE][PASSED] - Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:04:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Factoriall/input_The greatest factorial calculator_number"), number): Text '10000' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:04:34 - [MESSAGE][PASSED] - Text '10000' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:04:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Factoriall/button_Calculate")): Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on
+
+2021-02-16 11:04:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PruebaDatosVarios" time="10.276" classname="Test Cases/PruebaDatosVarios" status="PASSED">
+         <system-out><![CDATA[2021-02-16 11:04:34 - [TEST_CASE][PASSED] - Test Cases/PruebaDatosVarios: Test Cases/PruebaDatosVarios
+
+2021-02-16 11:04:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-02-16 11:04:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2021-02-16 11:04:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-02-16 11:04:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-02-16 11:04:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-02-16 11:04:41 - [TEST_STEP][PASSED] - navigateToUrl("http://qainterview.pythonanywhere.com/"): Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:04:43 - [MESSAGE][PASSED] - Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:04:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Factoriall/input_The greatest factorial calculator_number"), number): Text '' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:04:44 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:04:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Factoriall/button_Calculate")): Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on
+
+2021-02-16 11:04:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-02-16 11:02:33 - [TEST_SUITE][PASSED] - PruebaConNumerosReales: Test Cases/PruebaDatosVarios]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

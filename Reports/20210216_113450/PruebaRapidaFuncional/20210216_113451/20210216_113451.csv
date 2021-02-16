@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PruebaRapidaFuncional,Chrome 88.0.4324.150,,,2021-02-16 11:35:00,2021-02-16 11:35:12,"12,273s",PASSED
+,,,,,,,
+Test Cases/PruebaFuncional,Chrome 88.0.4324.150,Prueba rápida funcional de la App Factorial,,2021-02-16 11:35:01,2021-02-16 11:35:12,"11,420s",PASSED
+"openBrowser("""")",Chrome 88.0.4324.150,,,2021-02-16 11:35:01,2021-02-16 11:35:09,"7,303s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Chrome 88.0.4324.150,,,2021-02-16 11:35:09,2021-02-16 11:35:11,"2,333s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""))",Chrome 88.0.4324.150,,,2021-02-16 11:35:11,2021-02-16 11:35:11,"0,401s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), ""5"")",Chrome 88.0.4324.150,,,2021-02-16 11:35:11,2021-02-16 11:35:12,"0,646s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Chrome 88.0.4324.150,,,2021-02-16 11:35:12,2021-02-16 11:35:12,"0,350s",PASSED

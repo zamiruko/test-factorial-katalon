@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PruebaRapidaFuncional,Firefox 85.0,,,2021-02-16 11:35:15,2021-02-16 11:35:29,"14,025s",PASSED
+,,,,,,,
+Test Cases/PruebaFuncional,Firefox 85.0,Prueba rápida funcional de la App Factorial,,2021-02-16 11:35:16,2021-02-16 11:35:29,"13,161s",PASSED
+"openBrowser("""")",Firefox 85.0,,,2021-02-16 11:35:16,2021-02-16 11:35:26,"9,197s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Firefox 85.0,,,2021-02-16 11:35:26,2021-02-16 11:35:28,"1,868s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""))",Firefox 85.0,,,2021-02-16 11:35:28,2021-02-16 11:35:28,"0,591s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), ""5"")",Firefox 85.0,,,2021-02-16 11:35:28,2021-02-16 11:35:29,"0,611s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Firefox 85.0,,,2021-02-16 11:35:29,2021-02-16 11:35:29,"0,536s",PASSED

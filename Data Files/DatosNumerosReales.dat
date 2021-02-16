@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Diferentes tipos de datos para la prueba de factorial.</description>
+   <name>DatosNumerosReales</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>2561c0d9-8eeb-4f0a-9fe1-79dc3a386589</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>-10000</data>
+   <data>-1000</data>
+   <data>-100</data>
+   <data>-10</data>
+   <data>-1</data>
+   <data>0</data>
+   <data>1</data>
+   <data>10</data>
+   <data>100</data>
+   <data>1000</data>
+   <data>10000</data>
+   <data>null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>number</name>
+      <size>12</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

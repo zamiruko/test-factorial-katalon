@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Prueba rápida funcional de la App Factorial</description>
+   <name>PruebaFuncional</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00e0bf53-ea0b-40f5-b3dc-9dd031ae9107</testCaseGuid>
+</TestCaseEntity>

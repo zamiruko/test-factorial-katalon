@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Prueba con diferentes datos para una mejor prueba de posibles casos.</description>
+   <name>PruebaDatosVarios</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cf32e19-e4b4-42ea-83d5-8a73ec62e29f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Tipo de dato a requerir es un entero positivo mayor o igual a 0</description>
+      <id>f9699a6b-a744-4f89-8684-0bf00c2377f2</id>
+      <masked>false</masked>
+      <name>number</name>
+   </variable>
+</TestCaseEntity>

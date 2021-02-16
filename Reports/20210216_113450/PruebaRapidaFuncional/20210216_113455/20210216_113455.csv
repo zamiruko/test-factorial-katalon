@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PruebaRapidaFuncional,Edge Chromium 88,,,2021-02-16 11:35:32,2021-02-16 11:35:44,"11,824s",PASSED
+,,,,,,,
+Test Cases/PruebaFuncional,Edge Chromium 88,Prueba rápida funcional de la App Factorial,,2021-02-16 11:35:33,2021-02-16 11:35:44,"10,930s",PASSED
+"openBrowser("""")",Edge Chromium 88,,,2021-02-16 11:35:33,2021-02-16 11:35:40,"7,386s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Edge Chromium 88,,,2021-02-16 11:35:40,2021-02-16 11:35:43,"2,412s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""))",Edge Chromium 88,,,2021-02-16 11:35:43,2021-02-16 11:35:43,"0,280s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), ""5"")",Edge Chromium 88,,,2021-02-16 11:35:43,2021-02-16 11:35:43,"0,314s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Edge Chromium 88,,,2021-02-16 11:35:43,2021-02-16 11:35:44,"0,188s",PASSED

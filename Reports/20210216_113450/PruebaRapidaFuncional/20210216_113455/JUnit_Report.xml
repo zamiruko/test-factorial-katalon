@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="PruebaRapidaFuncional" time="12.867" tests="1" failures="0" skips="0" errors="0">
+   <testsuite name="PruebaRapidaFuncional" tests="1" failures="0" errors="0" time="12.867" skips="0" timestamp="2021-02-16 11:35:32" hostname="zamir - 192.168.0.18" id="Test Suites/PruebaRapidaFuncional">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\zamir\\git\\test-factorial-katalon\\Reports\\20210216_113450\\PruebaRapidaFuncional\\20210216_113455"/>
+         <property name="logFiles" value="C:\\Users\\zamir\\git\\test-factorial-katalon\\Reports\\20210216_113450\\PruebaRapidaFuncional\\20210216_113455\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="zamir - 192.168.0.18"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="null.null"/>
+         <property name="browser" value="Edge Chromium 88"/>
+         <property name="hostAddress" value="192.168.0.18"/>
+         <property name="sessionId" value="cd04b2d803fba7b7c36529a57bec96e8"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/PruebaFuncional" time="10.93" classname="Test Cases/PruebaFuncional" status="PASSED">
+         <system-out><![CDATA[2021-02-16 11:35:33 - [TEST_CASE][PASSED] - Test Cases/PruebaFuncional: Test Cases/PruebaFuncional
+
+2021-02-16 11:35:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-02-16 11:35:33 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2021-02-16 11:35:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-02-16 11:35:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-02-16 11:35:40 - [TEST_STEP][PASSED] - navigateToUrl("http://qainterview.pythonanywhere.com/"): Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:35:43 - [MESSAGE][PASSED] - Navigate to 'http://qainterview.pythonanywhere.com/' successfully
+
+2021-02-16 11:35:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Factoriall/input_The greatest factorial calculator_number")): Object: 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number' is clicked on
+
+2021-02-16 11:35:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number' is clicked on
+
+2021-02-16 11:35:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Factoriall/input_The greatest factorial calculator_number"), "5"): Text '5' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:35:43 - [MESSAGE][PASSED] - Text '5' is set on object 'Object Repository/Page_Factoriall/input_The greatest factorial calculator_number'
+
+2021-02-16 11:35:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Factoriall/button_Calculate")): Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on
+
+2021-02-16 11:35:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Factoriall/button_Calculate' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-02-16 11:35:32 - [TEST_SUITE][PASSED] - PruebaRapidaFuncional: Test Cases/PruebaFuncional]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

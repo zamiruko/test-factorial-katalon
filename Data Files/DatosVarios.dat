@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Lista de diferentes tipos de datos, entre caracteres, números, etc.</description>
+   <name>DatosVarios</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>2b95d520-515a-4ca4-bffa-bef581832afc</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>a</data>
+   <data>b</data>
+   <data>0</data>
+   <data>1</data>
+   <data>2</data>
+   <data>1x0</data>
+   <data>1x</data>
+   <data>+01</data>
+   <data>00009</data>
+   <data>0x0</data>
+   <data>12h3</data>
+   <data>1.02</data>
+   <data>1%2C34</data>
+   <data>1.00</data>
+   <data>-1.33</data>
+   <data>--2</data>
+   <data>%2B33</data>
+   <data>%3D3</data>
+   <data>-4x0</data>
+   <data>-4*-5</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>number</name>
+      <size>20</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

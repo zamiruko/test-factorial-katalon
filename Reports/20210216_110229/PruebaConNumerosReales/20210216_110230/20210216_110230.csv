@@ -1,0 +1,74 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PruebaConNumerosReales,Chrome 88.0.4324.150,Conbinación de PruebaDatosVarios con Números reales para ejecutar.,,2021-02-16 11:02:33,2021-02-16 11:04:44,"2m - 11,219s",PASSED
+,,,,,,,
+Test Cases/PruebaDatosVarios,Chrome 88.0.4324.150,Prueba con diferentes datos para una mejor prueba de posibles casos.,,2021-02-16 11:02:34,2021-02-16 11:02:45,"11,140s",PASSED
+"openBrowser("""")",Chrome 88.0.4324.150,,,2021-02-16 11:02:34,2021-02-16 11:02:41,"7,107s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Chrome 88.0.4324.150,,,2021-02-16 11:02:41,2021-02-16 11:02:44,"2,438s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), number)",Chrome 88.0.4324.150,,,2021-02-16 11:02:44,2021-02-16 11:02:45,"0,860s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Chrome 88.0.4324.150,,,2021-02-16 11:02:45,2021-02-16 11:02:45,"0,365s",PASSED
+,,,,,,,
+Test Cases/PruebaDatosVarios,Chrome 88.0.4324.150,Prueba con diferentes datos para una mejor prueba de posibles casos.,,2021-02-16 11:02:45,2021-02-16 11:02:56,"10,634s",PASSED
+"openBrowser("""")",Chrome 88.0.4324.150,,,2021-02-16 11:02:45,2021-02-16 11:02:53,"7,434s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Chrome 88.0.4324.150,,,2021-02-16 11:02:53,2021-02-16 11:02:55,"2,187s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), number)",Chrome 88.0.4324.150,,,2021-02-16 11:02:55,2021-02-16 11:02:55,"0,659s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Chrome 88.0.4324.150,,,2021-02-16 11:02:55,2021-02-16 11:02:56,"0,349s",PASSED
+,,,,,,,
+Test Cases/PruebaDatosVarios,Chrome 88.0.4324.150,Prueba con diferentes datos para una mejor prueba de posibles casos.,,2021-02-16 11:02:56,2021-02-16 11:03:06,"10,740s",PASSED
+"openBrowser("""")",Chrome 88.0.4324.150,,,2021-02-16 11:02:56,2021-02-16 11:03:03,"7,040s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Chrome 88.0.4324.150,,,2021-02-16 11:03:03,2021-02-16 11:03:05,"2,689s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), number)",Chrome 88.0.4324.150,,,2021-02-16 11:03:05,2021-02-16 11:03:06,"0,655s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Chrome 88.0.4324.150,,,2021-02-16 11:03:06,2021-02-16 11:03:06,"0,351s",PASSED
+,,,,,,,
+Test Cases/PruebaDatosVarios,Chrome 88.0.4324.150,Prueba con diferentes datos para una mejor prueba de posibles casos.,,2021-02-16 11:03:06,2021-02-16 11:03:17,"10,368s",PASSED
+"openBrowser("""")",Chrome 88.0.4324.150,,,2021-02-16 11:03:06,2021-02-16 11:03:14,"7,067s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Chrome 88.0.4324.150,,,2021-02-16 11:03:14,2021-02-16 11:03:16,"2,303s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), number)",Chrome 88.0.4324.150,,,2021-02-16 11:03:16,2021-02-16 11:03:16,"0,639s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Chrome 88.0.4324.150,,,2021-02-16 11:03:16,2021-02-16 11:03:17,"0,353s",PASSED
+,,,,,,,
+Test Cases/PruebaDatosVarios,Chrome 88.0.4324.150,Prueba con diferentes datos para una mejor prueba de posibles casos.,,2021-02-16 11:03:17,2021-02-16 11:03:28,"10,687s",PASSED
+"openBrowser("""")",Chrome 88.0.4324.150,,,2021-02-16 11:03:17,2021-02-16 11:03:24,"6,984s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Chrome 88.0.4324.150,,,2021-02-16 11:03:24,2021-02-16 11:03:27,"2,701s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), number)",Chrome 88.0.4324.150,,,2021-02-16 11:03:27,2021-02-16 11:03:27,"0,642s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Chrome 88.0.4324.150,,,2021-02-16 11:03:27,2021-02-16 11:03:28,"0,355s",PASSED
+,,,,,,,
+Test Cases/PruebaDatosVarios,Chrome 88.0.4324.150,Prueba con diferentes datos para una mejor prueba de posibles casos.,,2021-02-16 11:03:28,2021-02-16 11:03:38,"10,596s",PASSED
+"openBrowser("""")",Chrome 88.0.4324.150,,,2021-02-16 11:03:28,2021-02-16 11:03:35,"7,097s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Chrome 88.0.4324.150,,,2021-02-16 11:03:35,2021-02-16 11:03:37,"2,497s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), number)",Chrome 88.0.4324.150,,,2021-02-16 11:03:37,2021-02-16 11:03:38,"0,646s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Chrome 88.0.4324.150,,,2021-02-16 11:03:38,2021-02-16 11:03:38,"0,351s",PASSED
+,,,,,,,
+Test Cases/PruebaDatosVarios,Chrome 88.0.4324.150,Prueba con diferentes datos para una mejor prueba de posibles casos.,,2021-02-16 11:03:38,2021-02-16 11:03:48,"10,338s",PASSED
+"openBrowser("""")",Chrome 88.0.4324.150,,,2021-02-16 11:03:38,2021-02-16 11:03:45,"7,082s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Chrome 88.0.4324.150,,,2021-02-16 11:03:45,2021-02-16 11:03:47,"2,252s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), number)",Chrome 88.0.4324.150,,,2021-02-16 11:03:47,2021-02-16 11:03:48,"0,656s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Chrome 88.0.4324.150,,,2021-02-16 11:03:48,2021-02-16 11:03:48,"0,344s",PASSED
+,,,,,,,
+Test Cases/PruebaDatosVarios,Chrome 88.0.4324.150,Prueba con diferentes datos para una mejor prueba de posibles casos.,,2021-02-16 11:03:49,2021-02-16 11:03:59,"10,730s",PASSED
+"openBrowser("""")",Chrome 88.0.4324.150,,,2021-02-16 11:03:49,2021-02-16 11:03:56,"7,416s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Chrome 88.0.4324.150,,,2021-02-16 11:03:56,2021-02-16 11:03:58,"2,306s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), number)",Chrome 88.0.4324.150,,,2021-02-16 11:03:58,2021-02-16 11:03:59,"0,642s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Chrome 88.0.4324.150,,,2021-02-16 11:03:59,2021-02-16 11:03:59,"0,361s",PASSED
+,,,,,,,
+Test Cases/PruebaDatosVarios,Chrome 88.0.4324.150,Prueba con diferentes datos para una mejor prueba de posibles casos.,,2021-02-16 11:03:59,2021-02-16 11:04:10,"10,736s",PASSED
+"openBrowser("""")",Chrome 88.0.4324.150,,,2021-02-16 11:03:59,2021-02-16 11:04:06,"7,054s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Chrome 88.0.4324.150,,,2021-02-16 11:04:06,2021-02-16 11:04:09,"2,677s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), number)",Chrome 88.0.4324.150,,,2021-02-16 11:04:09,2021-02-16 11:04:10,"0,646s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Chrome 88.0.4324.150,,,2021-02-16 11:04:10,2021-02-16 11:04:10,"0,355s",PASSED
+,,,,,,,
+Test Cases/PruebaDatosVarios,Chrome 88.0.4324.150,Prueba con diferentes datos para una mejor prueba de posibles casos.,,2021-02-16 11:04:10,2021-02-16 11:04:23,"13,381s",PASSED
+"openBrowser("""")",Chrome 88.0.4324.150,,,2021-02-16 11:04:10,2021-02-16 11:04:17,"6,931s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Chrome 88.0.4324.150,,,2021-02-16 11:04:17,2021-02-16 11:04:22,"5,459s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), number)",Chrome 88.0.4324.150,,,2021-02-16 11:04:22,2021-02-16 11:04:23,"0,640s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Chrome 88.0.4324.150,,,2021-02-16 11:04:23,2021-02-16 11:04:23,"0,348s",PASSED
+,,,,,,,
+Test Cases/PruebaDatosVarios,Chrome 88.0.4324.150,Prueba con diferentes datos para una mejor prueba de posibles casos.,,2021-02-16 11:04:23,2021-02-16 11:04:34,"10,497s",PASSED
+"openBrowser("""")",Chrome 88.0.4324.150,,,2021-02-16 11:04:23,2021-02-16 11:04:30,"7,015s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Chrome 88.0.4324.150,,,2021-02-16 11:04:30,2021-02-16 11:04:33,"2,485s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), number)",Chrome 88.0.4324.150,,,2021-02-16 11:04:33,2021-02-16 11:04:34,"0,651s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Chrome 88.0.4324.150,,,2021-02-16 11:04:34,2021-02-16 11:04:34,"0,341s",PASSED
+,,,,,,,
+Test Cases/PruebaDatosVarios,Chrome 88.0.4324.150,Prueba con diferentes datos para una mejor prueba de posibles casos.,,2021-02-16 11:04:34,2021-02-16 11:04:44,"10,276s",PASSED
+"openBrowser("""")",Chrome 88.0.4324.150,,,2021-02-16 11:04:34,2021-02-16 11:04:41,"6,990s",PASSED
+"navigateToUrl(""http://qainterview.pythonanywhere.com/"")",Chrome 88.0.4324.150,,,2021-02-16 11:04:41,2021-02-16 11:04:43,"2,293s",PASSED
+"setText(findTestObject(""Object Repository/Page_Factoriall/input_The greatest factorial calculator_number""), number)",Chrome 88.0.4324.150,,,2021-02-16 11:04:43,2021-02-16 11:04:44,"0,629s",PASSED
+"click(findTestObject(""Object Repository/Page_Factoriall/button_Calculate""))",Chrome 88.0.4324.150,,,2021-02-16 11:04:44,2021-02-16 11:04:44,"0,359s",PASSED

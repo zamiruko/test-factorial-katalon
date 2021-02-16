@@ -1,0 +1,20 @@
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 1","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u0027a\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 2","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u0027b\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 3","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u00270\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 4","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u00271\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 5","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u00272\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 6","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u00271x0\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 7","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u00271x\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 8","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u0027 01\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 9","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u002700009\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 10","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u00270x0\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 11","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u002712h3\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 12","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u00271.02\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 13","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u00271,34\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 14","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u00271.00\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 15","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u0027-1.33\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 16","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u0027--2\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 17","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u0027+33\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 18","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u0027\u003d3\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 19","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u0027-4x0\u0027"}}
+{"testCaseName":"Test Cases/PruebaDatosVarios - Iteration 20","testCaseId":"Test Cases/PruebaDatosVarios","bindedValues":{"number":"\u0027-4*-5\u0027"}}

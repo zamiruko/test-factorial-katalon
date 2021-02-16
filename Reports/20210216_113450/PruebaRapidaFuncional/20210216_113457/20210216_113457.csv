@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PruebaRapidaFuncional,,,,2021-02-16 11:35:47,2021-02-16 11:35:49,"1,657s",FAILED
+,,,,,,,
+Test Cases/PruebaFuncional,,Prueba rápida funcional de la App Factorial,,2021-02-16 11:35:48,2021-02-16 11:35:49,"0,722s",FAILED
+"openBrowser("""")",,,,2021-02-16 11:35:48,2021-02-16 11:35:49,"0,318s",FAILED
