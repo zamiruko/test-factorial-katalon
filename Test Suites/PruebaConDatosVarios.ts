@@ -18,7 +18,7 @@
       <testCaseId>Test Cases/PruebaDatosVarios</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>518f49ef-abcd-4338-a7ec-2a4cc5facab8</id>
+         <id>a9e26266-f63d-4806-9e63-8ee6757de4f1</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -26,7 +26,7 @@
          <testDataId>Data Files/DatosVarios</testDataId>
       </testDataLink>
       <variableLink>
-         <testDataLinkId>518f49ef-abcd-4338-a7ec-2a4cc5facab8</testDataLinkId>
+         <testDataLinkId>a9e26266-f63d-4806-9e63-8ee6757de4f1</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>number</value>
          <variableId>f9699a6b-a744-4f89-8684-0bf00c2377f2</variableId>

@@ -27,3 +27,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Factoriall/input_The greate
 
 WebUI.click(findTestObject('Object Repository/Page_Factoriall/button_Calculate'))
 
+WebUI.closeBrowser()
+
